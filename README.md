@@ -10,8 +10,8 @@ The following Machine Learning models are implemented :-
 * SUPPORT VECTOR MACHINES (SVM)
 * SPLINES
 * TREES
-  Decision Tree
-  Pruned Decision Tree
-  Regression Tree
-  Bagging and Random Forest
+   (Decision Tree, 
+   Pruned Decision Tree,
+   Regression Tree,
+   Bagging and Random Forest)
 * BOOSTING
